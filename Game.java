@@ -1,3 +1,6 @@
+/**
+* The game class will play a round of set using a table and deck 
+*/
 public class Game
 {
   private Table t;
